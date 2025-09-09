@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying Bachelor's Degree in Data Science 📊 at Univertitat Politècnica de València. I'm currently working on self projects and keep self-learning about MLOps and DevOps.
+#### I'm studying Bachelor's Degree in Data Science 📊 at Univertitat Politècnica de València. I'm currently working on self projects and keep self-learning about MLOps and DevOps.
 
 
 ## 🌐 Socials:
