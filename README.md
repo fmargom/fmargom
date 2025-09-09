@@ -18,6 +18,12 @@ I'm studying Bachelor's Degree in Data Science 📊 at Univertitat Politècnica 
 ---
 [![](https://visitcount.itsvg.in/api?id=fmargom&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
