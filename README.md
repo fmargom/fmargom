@@ -22,7 +22,7 @@ I'm studying Bachelor's Degree in Data Science 📊 at Univertitat Politècnica 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fmargom/fmargom/output/snake.svg" alt="Snake animation" />
 
 ###
 
